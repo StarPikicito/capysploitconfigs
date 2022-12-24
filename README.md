@@ -9,3 +9,5 @@ feel free to suggest any changes or new configs in issues
 config list
 
 -chinese takeout (done)
+
+-electronics store (done)
