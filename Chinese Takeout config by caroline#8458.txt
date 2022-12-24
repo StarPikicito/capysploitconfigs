@@ -1,0 +1,4 @@
+{"reex":true,"customBoothText":"Chinese Takeout 🍜","render":false,"serverHopToggle":true,"fontFace":"Ubuntu","serverHopDelay":17,"thanksMessage":["謝謝你，Thank you for purchasing! Have a good day!","Thank you, it means a lot!"],"goalBox":10,"begDelay":60,"anonymous":true,"signUpdateToggle":false,"colorBox":"1, 0, 0","signToggle":false,"signColorBox":"1, 1, 1","fontSize":100,"autoThanks":true,"webhookshop":true,"disableFont":false,"vcServer":false,"shortMessage":false,"boothPosition":-6,"autoBeg":true,"staffHop":true,"textUpdateDelay":8,"censorHop":false,"altServers":true,"begMessage":["Come to my booth if you want to try some tasty and high quality Chinese food!","Want tasty and delicious Chinese food? Come to my stall and order some!"],"webhookToggle":true,"textUpdateToggle":true,"fpsLimit":15,"randomToggle":false,"signText":"your text here","webhookBox":"","thanksDelay":2,"danceChoice":"1"}
+
+-- made with love by caroline#8458
+-- capysploit ftw!!!!
